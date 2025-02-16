@@ -19,7 +19,8 @@ Built using Unity 2022.3.45f1
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
- 
+
+ * Small note: I did not realise the font or puzzle pack assets were here in the read me so https://fonts.google.com/specimen/League+Gothic and https://kenney.nl/assets/puzzle-pack were the two things I used when doing this exercise
 
 ## Future Development
 
@@ -27,4 +28,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Blayne Baker
